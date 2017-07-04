@@ -1,3 +1,7 @@
+1.0.8 2017-07-04
+	- Forked
+	- Modified employees.sql file
+	- Got rid of extra stuff
 1.0.7 2015-08-30
 	- Moved to GitHub
 	- Fixed bug#393423 Duplicate key in dept_manager

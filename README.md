@@ -1,3 +1,7 @@
+# test_db modified
+Due to issues with Ansible not being able to change directories before doing an import, I modified employees.sql so that it wouldn't try to load the dumpfiles.
+
+
 # test_db
 A sample database with an integrated test suite, used to test your applications and database servers
 
